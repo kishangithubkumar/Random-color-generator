@@ -7,5 +7,5 @@
 ## On evey click  it will create a new web page with differnt color .
 
 <img width="1920" height="1020" alt="Screenshot 2026-02-06 010500" src="https://github.com/user-attachments/assets/35c09e91-f10f-4e70-93a5-eacea138a1b6" />
-## whereas, its background-color mostly only change and remaining all the parts and style like header, button all of its size is fixed.
+## whereas, its background-color and #object will change and remaining all the parts and style like header, button all of its size will be fixed.
 
